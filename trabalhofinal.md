@@ -60,10 +60,20 @@ Resulto: 365 linhas retornadas em 2575 ms
 
 4. Indique um caminho inicial de pauta que poderia ser explorado a partir dos insights obtidos.
 
-  a. Observamos uma correlação evidente entre a proporção de cesáreas em relação ao dia da semana. Ao longo dos anos, é consistente a queda na proporção de cesáreas nos sábados e domingos. Em 2021, por exemplo, apenas 2 domingos registraram número de cesáreas maior do que 50%, sendo que a média diária para o mesmo ano é de aproximadamente 57% de cesáreas.
+  a. Observamos uma correlação evidente entre a proporção de cesáreas em relação ao dia da semana. Ao longo dos anos, é consistente a queda na proporção de cesáreas nos sábados e domingos. Em 2021, por exemplo, apenas 2 domingos registraram número de cesáreas maior do que 50%, sendo que a média diária para o mesmo ano é de aproximadamente 57% de cesáreas;
 
-  b. Não foi possível identificar correlação específica entre a proporção de cesáreas e vésperas de feriados. Um possível refinamento dessa pergunta poderia partir da diferenciação entre dados da rede pública e da rede privada. 
+  b. Não foi possível identificar correlação específica entre a proporção de cesáreas e vésperas de feriados. Um possível refinamento dessa pergunta poderia partir da diferenciação entre dados da rede pública e da rede privada; 
   
-  c. Tampouco foi possível identificar possíveis efeitos da pandemia sobre essas proporções, visto que as linhas dos 3 anos analisados (2019, 2020 e 2021) são bastante similares. 
+  c. Tampouco foi possível identificar possíveis efeitos da pandemia sobre essas proporções, visto que as linhas dos 3 anos analisados (2019, 2020 e 2021) são bastante similares;
   
-  d. Especialistas alegam que não é admitido fazer uma cesariana antes das 39 semanas de gestação - quando não tem recomendação médica. Mas o Brasil tem um elevado índice de cesarianas sem indicação. A ideia da nossa pauta seria mostrar quando se concentram essas cesáreas. Segundo médicos que conversamos, na saúde suplementar, principalmente, é muito comum um obstetra fazer 4 ou 5 cesáreas no mesmo dia, porque existe a possibilidade de agendamento. Isso sugere um possível comodismo entre os profissionais de saúde, que não respeitam o tempo natural do trabalho de parto e optam pela facilidade. Com isso, médicos marcam cesáreas antes do período certo e isso pode afetar a saúde do bebê e da mãe.
+  d. Especialistas alegam que não é admitido fazer uma cesariana antes das 39 semanas de gestação - quando não tem recomendação médica. Mas o Brasil tem um elevado índice de cesarianas sem indicação. A ideia da nossa pauta seria mostrar quando se concentram essas cesáreas. Segundo médicos que conversamos, na saúde suplementar, principalmente, é muito comum um obstetra fazer 4 ou 5 cesáreas no mesmo dia, porque existe a possibilidade de agendamento. Isso sugere um possível comodismo entre os profissionais de saúde, que não respeitam o tempo natural do trabalho de parto e optam pela facilidade. Com isso, médicos marcam cesáreas antes do período certo e isso pode afetar a saúde do bebê e da mãe;
+  
+  e.  A investigação começou a partir da conversa com especialistas que alegam que alguns obstetras, da saúde suplementar, principalmente, fazem 4 ou 5 cesáreas no mesmo dia, porque existe a possibilidade de agendamento. Logo, existem situações em que o profissional adianta o parto para se beneficiar. Há relatos em que as cesarianas se concentram antes de feriados, por exemplo;
+  
+  f.  Na análise que fizemos com dados de São Paulo, nós observamos uma correlação evidente entre a proporção de cesáreas em relação ao dia da semana. Ao longo dos anos, é consistente a queda na proporção de cesáreas nos sábados e domingos. Em 2021, por exemplo, apenas 2 domingos registraram número de cesáreas maior do que 50%, sendo que a média diária para o mesmo ano é de aproximadamente 57% de cesáreas. Não foi possível identificar correlação específica entre a proporção de cesáreas e vésperas de feriados. Um possível refinamento dessa pergunta poderia partir da diferenciação entre dados da rede pública e da rede privada;
+  
+  g.  Possíveis entrevistados: Eduardo de Souza, médico da Unifesp e integrante da Associação de Obstetrícia e Ginecologia do Estado de São Paulo (Sogesp); Carmen Simone Grilo Diniz, professora da Faculdade de Saúde Pública da USP; advogada Ruth Rodrigues, do Coletivo Nacional de Enfrentamento à Violência Obstétrica - Nascer Direito; representantes do Ministério da Saúde e da Agência Nacional de Saúde Suplementar (ANS);
+  
+  h.  Personagens: mães que fizeram uma cesariana - sem indicação - antes da hora e tiveram algum tipo de complicação ou que sofreram violência obstétrica; mulheres que não se sentiram amparadas pelo médico;
+  
+  i.  É possível expandir a pauta para outros estados e também para além das cesarianas.
